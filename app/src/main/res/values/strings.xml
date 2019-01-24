@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">UsoDeCamara</string>
+    <string name="boton">Tomar fotografía</string>
+    <string name="imagen">Imagen tomada</string>
+</resources>
